@@ -1,6 +1,6 @@
-# Fully Responsive Modern UI/UX Website in React JS GPT-3
+## Fully Responsive Modern UI/UX Website in React JS GPT-3
 
-## Live Site: <>
+## Live Site: <https://subtle-kelpie-856e95.netlify.app/>
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
